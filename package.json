@@ -1,0 +1,14 @@
+{
+  "name": "chichi",
+  "version": "1.0.0",
+  "description": "1. Collect lists\r 1. Transform and unify lists \r 1. Audit lists\r     - Person must have two names\r     - \r 1. Visualize lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
