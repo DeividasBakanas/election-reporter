@@ -8,7 +8,7 @@ Nr. 1. PARTIJA TVARKA IR TEISINGUMAS
 7. Salvija Buzelienė
 8. Vytautas Girnius
 9. Marius Dzimidas
-10. Genovaitė Šimonienė- Kazlauskienė
+10. Genovaitė Šimonienė-Kazlauskienė
 11. Gediminas Berūkštis
 12. Živilė Kleivienė
 13. Vladas Važnevičius
@@ -106,7 +106,7 @@ Nr. 4. LIETUVOS SOCIALDEMOKRATŲ PARTIJA
 46. Nerijus Bražionis
 47. Rokas Garliauskas
 48. Arvydas Garbaravičius
-Nr. 6. TĖVYNĖS SĄJUNGA —- LIETUVOS KRIKŠČIONYS DEMOKRATAI
+Nr. 6. TĖVYNĖS SĄJUNGA — LIETUVOS KRIKŠČIONYS DEMOKRATAI
 1. Jurgita Šiugždinienė
 2. Edita Gudišauskienė
 3.Vitas Lendraitis
@@ -256,7 +256,7 @@ Nr. 10. LIETUVOS RESPUBLIKOS LIBERALŲ SĄJŪDIS
 32. Andrius Sadzevičius
 33. Deimantas Pakštaitis
 34. Mindaugas Murauskas
-35 Eglė Radavičė
+35. Eglė Radavičė
 36. Rita Stankevičienė
 37.Diana Obelienienė
 38. Laimutė Noreikienė
