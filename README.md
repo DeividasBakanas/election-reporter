@@ -1,5 +1,7 @@
 # Compare the list
 
+A deployed version can be found [here](https://bakanas.lt/rinkimai/2023/kauno-savivaldybes-tarybos-rinkimai.html).
+
 ## Steps
 
 1. Collect lists

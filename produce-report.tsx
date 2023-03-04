@@ -813,6 +813,16 @@ const generate = async () => {
             </details>
           );
         })}
+        <p>
+          Šį turinį sugeneravusį kodą galima rasti{" "}
+          <a
+            href="https://github.com/DeividasBakanas/election-reporter"
+            target="_blank"
+          >
+            čia
+          </a>
+          .
+        </p>
       </body>
     </html>
   );
